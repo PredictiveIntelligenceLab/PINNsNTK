@@ -1,4 +1,4 @@
-## Deep learning of free boundary and Stefan problems
+## When and why PINNs fail to train: A neural tangent kernel perspective
 
 Code and data (available upon request) accompanying the manuscript titled "When and why PINNs fail to train: A neural tangent kernel perspective", authored by Sifan Wang, Xinling Yu, and Paris Perdikaris.
 
