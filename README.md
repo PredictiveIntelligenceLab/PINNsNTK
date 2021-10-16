@@ -10,4 +10,11 @@ of PINNs and prove that, under appropriate conditions, it converges to a determi
 
 ## Citation
 
-TBA
+    @article{wang2021and,
+      title={When and why PINNs fail to train: A neural tangent kernel perspective},
+      author={Wang, Sifan and Yu, Xinling and Perdikaris, Paris},
+      journal={Journal of Computational Physics},
+      pages={110768},
+      year={2021},
+      publisher={Elsevier}
+      }
